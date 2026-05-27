@@ -1,5 +1,5 @@
 ### Hi there 👋
-Currently learning GitHub for my Admin a linus server class.
+Currently learning GitHub for my cyber security degree
 
 <!--
 **akhmoney/akhmoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
